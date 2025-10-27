@@ -1,0 +1,7 @@
+************* Module inventory_system
+inventory_system.py:51:0: C0301: Line too long (107/100) (line-too-long)
+inventory_system.py:20:0: W0611: Unused Any imported from typing (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 9.82/10 (previous run: 4.80/10, +5.02)
+
